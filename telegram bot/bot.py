@@ -22,7 +22,7 @@ print(repo.name)
 
 
 # Telegram bot token
-TELEGRAM_TOKEN = '7850073319:AAGZdRj5V7EODwLugS7oeHSf1frRF2EDPI0'
+TELEGRAM_TOKEN = '8000721026:AAFHMGKjhCX1n1u1hgxZeroKRz_xBcmXLAA'
 
 bot = telebot.TeleBot(TELEGRAM_TOKEN)
 
